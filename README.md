@@ -53,4 +53,5 @@ conda env create -f tf-mdn.yml
 
 > **Alex Fustagueras**.
 > *Stochastic Aircraft Trajectory Prediction*.
+
 > Specialization Project, ZHAW Centre for Aviation, July 2025
