@@ -23,7 +23,6 @@ VT_1/
 ├── 02a_filtering.ipynb            # En-route trajectory extraction
 ├── 02b_transforming.ipynb         # Feature engineering
 ├── 02c_generating_samples.ipynb   # Sample generation (input/output pairs)
-│
 ├── 03_model_training.py           # Script version of model training
 ├── 04_inference.ipynb             # Inference and uncertainty visualization
 │
@@ -52,6 +51,6 @@ conda env create -f tf-mdn.yml
 
 ## 📚 Citation
 
-> **Alex Fustagueras**
-> *Stochastic Aircraft Trajectory Prediction*
+> **Alex Fustagueras**.
+> *Stochastic Aircraft Trajectory Prediction*.
 > Specialization Project, ZHAW Centre for Aviation, July 2025
