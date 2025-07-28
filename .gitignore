@@ -7,3 +7,5 @@ blstm_mdn_training.py
 03_model_training_v2.ipynb
 03_model_training_v3.ipynb
 03_model_training_v4.ipynb
+
+04_inference_OLD.ipynb
